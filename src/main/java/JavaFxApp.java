@@ -9,8 +9,4 @@ public class JavaFxApp extends Application {
         stage.setScene(new Scene(new Pane(), 800,600));
         stage.show();
     }
-
-    public static void main(String[] args) {
-        launch(args);
-    }
 }
