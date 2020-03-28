@@ -16,3 +16,4 @@ Na koniec uruchomcie taska Verify żeby upewnić się że wszystko poszło jak n
 
 ![Image description](https://raw.githubusercontent.com/MichalKowalczewski/JdbcHibernateStarter/master/image/maven_run.png)
 
+"# BartlomiejJablonowski" 
